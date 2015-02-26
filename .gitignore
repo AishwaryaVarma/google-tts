@@ -1,0 +1,5 @@
+# Removing all the compiled byte code of python
+*.pyc
+
+# Sounds directory in which the audio is downloaded
+sounds/
