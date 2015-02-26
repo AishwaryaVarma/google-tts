@@ -1,5 +1,6 @@
 # Removing all the compiled byte code of python
 *.pyc
+sounds.db
 
 # Sounds directory in which the audio is downloaded
 sounds/
