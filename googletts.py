@@ -40,4 +40,4 @@ def tts(string):
 			#os.remove("./sounds/"+numbering+".mp3")
 			return "Not connected to the internet."
 	else:
-		pass
+		return str(data[0])

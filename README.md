@@ -10,3 +10,8 @@ Add this file along with the sounds directory to your python path. Then fire up 
 This will return you a path of the sound that was downloaded after TTS.
 
 This module will only work on systems which have wget installed and have it included in the path variable. This module will more likely work on most of the linux based OS like Ubuntu etc. The module will be made wget independent in the future.
+
+### Features : 
+* Stores all the audio under the directory named sounds/
+* If the same audio is request again it returns the audio path that is present in the sounds/ directory.
+
